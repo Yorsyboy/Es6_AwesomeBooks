@@ -20,7 +20,10 @@ The basic requirements for building the executable are:
 ```
 https://github.com/Yorsyboy/Es6_AwesomeBooks.git
 ```
-## Authors
+
+### Usage
+
+Open index.html in Chrome
 
 ## Author 1
 
@@ -45,3 +48,7 @@ Give a ⭐️ if you like this project!
 - Microverse
 - Hat tip to anyone whose code was used
 - Inspiration etc.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
