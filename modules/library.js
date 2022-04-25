@@ -30,7 +30,9 @@ export default class Library {
         this.updateLocalStorage();
         return book;
       }
+      // eslint-disable-next-line no-alert
       alert('The Book and Author exist');
+      return null;
     }
 
     // Remove a book from the list of lists
