@@ -8,7 +8,8 @@
 - CSS
 - JS
 
-<!-- ## Live Demo -->
+## Live Demo
+https://yorsyboy.github.io/Es6_AwesomeBooks/
 
 ### Prerequisites
 The basic requirements for building the executable are:
