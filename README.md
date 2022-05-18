@@ -9,7 +9,7 @@
 - JS
 
 ## Live Demo
-[Live Demo Link](https://yorsyboy.github.io/Es6_AwesomeBooks/)
+[Live Link](https://yorsyboy.github.io/Es6_AwesomeBooks/)
 
 ### Prerequisites
 The basic requirements for building the executable are:
